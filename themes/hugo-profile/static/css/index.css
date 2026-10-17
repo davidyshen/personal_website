@@ -104,7 +104,7 @@ header .navbar {
 #hero h2 {
     font-size: clamp(40px, 8vw, 80px);
     color: var(--primary-color) !important;
-    font-family: 'Space Grotesk', sans-serif;
+    font-family: 'Instrument Serif', serif;
     font-weight: 700;
 }
 
